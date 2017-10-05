@@ -1,0 +1,14 @@
+current directory: /home/ezbc/ezbc.github.io/env/ruby/2.3.0/gems/json-1.8.6/ext/json
+/usr/bin/ruby -r ./siteconf20170415-8493-10bmyu8.rb extconf.rb
+creating Makefile
+
+current directory: /home/ezbc/ezbc.github.io/env/ruby/2.3.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+rm -f .so  *.o  *.bak mkmf.log .*.time
+
+current directory: /home/ezbc/ezbc.github.io/env/ruby/2.3.0/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: Nothing to be done for 'all'.
+
+current directory: /home/ezbc/ezbc.github.io/env/ruby/2.3.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" install
